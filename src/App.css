@@ -1,0 +1,14 @@
+.outer{
+  margin: 10px 0px;;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.inner{
+  background-color: green;
+  border-radius: 10px;;
+  color:white;
+  text-align: right;
+  transition: ease 0.5s;
+}
